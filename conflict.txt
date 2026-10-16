@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Develop branch version
+=======
+Feature branch version
+>>>>>>> feature/conflict
